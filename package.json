@@ -6,11 +6,11 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "engines": {
+ "engines": {
     "node": "v12.18.0",
     "npm": "6.14.4"
   },
-  "author": "Worachet Uttha",
+  "author": "Saransuk Yimyong",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.4"
