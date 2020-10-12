@@ -9,7 +9,7 @@ const addImagestoGallery = (res) => {
         <img src="${element.user.profile_image.small}" alt="" class="photo__avatar">
       </div>
       <div class="photo__header-column">
-        <span class="photo__username">${element.user.username}</span>
+        <a href="profile.html?username=${element.user.username}"><span class="photo__username">${element.user.username} </span><a/>
       </div>
     </header>
     <div class="photo__f
