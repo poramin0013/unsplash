@@ -14,7 +14,7 @@ const addImagestoGallery = (res) => {
     </header>
     <div class="photo__f
     ile-container">
-      <img src="${element.urls.raw}" alt="" class="photo__file">
+    <img src="${element.urls.raw}" alt="" class="photo__file">
     </div>
     <div class="photo__info">
       <div class="photo__icons">

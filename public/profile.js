@@ -3,7 +3,7 @@ const showImg = (res) => {
 	let html = "";
 	res.forEach((element) => {
 	html += `
-		<div class="gallery-item" tabindex="0">
+	<div class="gallery-item" tabindex="0">
 			<img src="${element.urls.raw}" class="gallery-image" alt="">
 			<div class="gallery-item-info">
 				<ul>
