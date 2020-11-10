@@ -49,7 +49,7 @@ img {
 }
 
 .btn:focus {
-    outline: 0.5rem auto #4d90fe;
+    outline: 0.5rem auto #2D191A;
 }
 
 .visually-hidden {
@@ -158,7 +158,7 @@ img {
     position: relative;
     flex: 1 0 22rem;
     margin: 1rem;
-    color: #fff;
+    color: #2D191A;
     cursor: pointer;
 }
 

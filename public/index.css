@@ -4,18 +4,18 @@
 
 body {
   margin: 0;
-  color: black;
+  color: #2D191A;
   
-  background: #193549;
+  background: #ffffff;
   text-align: center;
-  font-family: "helvetica neue", sans-serif;
+  font-family: "Courier";
   font-weight: 100;
   font-size: 20px;
 }
 
 h1 {
   text-align: center;
-  font-family: cursive;
+  font-family: Courier;
   color: white;
   padding: 2rem 15rem;
 
@@ -23,11 +23,12 @@ h1 {
 
 a {
   text-decoration: none;
+  font-family: Courier;
   color: black;
 }
 
 input {
-  border: 1px solid #dfe1e5;
+  border: 1px solid #2D191A;
   border-radius: 24px;
 
   width: 50%;
@@ -148,6 +149,6 @@ text-align: left;
   outline: none;
 }
 
-.heart-red {
-  color: red;
+.heart-FORSOMECOLLOR {
+  color: rgb(0, 165, 22);
 }
